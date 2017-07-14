@@ -1,3 +1,3 @@
-# Neural-Networks-Practice
+# Topic Discovery in Documents using Word Embeddings
 
-[MNIST Classification](https://github.com/venkatesh-sg/Neural-Networks-Practice/tree/master/MNIST_Classification)
+
